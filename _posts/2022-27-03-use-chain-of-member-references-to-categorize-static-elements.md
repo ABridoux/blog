@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Use chain of member references to categorize static elements
+title: Use Chain of Member References to Categorize Static Elements
 date: 2022-03-27 10:00:00 +0200
 categories: [Swift, Architecture]
 tags: [Swift, architecture]
